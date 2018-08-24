@@ -1,4 +1,6 @@
 # Spotify Discord Theme
+#### Combine Discord and Spotify into one
+<hr>
 
 Current version: v1.0 (24/08/2018)
 
