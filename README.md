@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.0 (24/08/2018)
+Current version: v1.0.1 (25/08/2018)
 
 ## Previews
 
@@ -36,8 +36,9 @@ Current version: v1.0 (24/08/2018)
 
 ## Changelog
 
-#### v1.0
-* Initial release
+#### v1.0.1
+* BetterDiscord switches alignment fixed
+* DiscordCrypt support added
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
