@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.0.2 (27/08/2018)
+Current version: v1.0.3 (29/08/2018)
 
 ## Previews
 
