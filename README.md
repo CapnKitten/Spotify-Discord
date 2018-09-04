@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.0.3 (29/08/2018)
+Current version: v1.0.4 (04/09/2018)
 
 ## Previews
 
@@ -36,10 +36,10 @@ Current version: v1.0.3 (29/08/2018)
 
 ## Changelog
 
-#### v1.0.2
-* User settings connections updated
-* Server search updated
-* NSFW warning styled
+#### v1.0.4
+* Fixed mention menu from NSFW warning update
+* Public server cards updated
+* Adding roles popout fixed
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
