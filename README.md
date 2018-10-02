@@ -2,7 +2,9 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.0.4.1 (13/09/2018)
+Current version: v1.1.0 (01/10/2018)
+
+Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
 
 ## Previews
 
@@ -36,9 +38,10 @@ Current version: v1.0.4.1 (13/09/2018)
 
 ## Changelog
 
-#### v1.0.4.1
-* Updated elements that Discord changed (If I missed any, please let me know)
-* Clicked buttons updated
+#### v1.1.0
+* Discord game store styled
+* New game library tab upadted
+* Slowmode notification updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
