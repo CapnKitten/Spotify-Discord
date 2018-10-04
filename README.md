@@ -8,6 +8,8 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 ## Previews
 
+(Previews are subject to be out of date)
+
 #### Main chat area
 
 ![discord-001](https://user-images.githubusercontent.com/4013216/44601841-ce77bd00-a7ab-11e8-9b2c-7ccd443e96fd.png)
