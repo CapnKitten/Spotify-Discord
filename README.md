@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.1.2 (05/10/2018)
+Current version: v1.1.2.1 (09/10/2018)
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
 
@@ -40,9 +40,9 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 ## Changelog
 
-#### v1.1.2
-* Emoji panel updated
-* New messages banner updated
+#### v1.1.2.1
+* Discord game store cards updated
+* Discord game store game info popouts updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
