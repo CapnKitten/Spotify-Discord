@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.1.6.1 (03/01/2019)
+Current version: v1.2.0 (25/02/2019)
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
 
@@ -40,9 +40,9 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 ## Changelog
 
-#### v1.1.6
-* Gift Nitro modal styled
-* Gift Nitro button updated
+#### v1.2.0
+* Server discovery features styled
+* Server/DM search results updated
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
