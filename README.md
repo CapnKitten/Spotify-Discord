@@ -40,7 +40,7 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 ## Changelog
 
-#### v1.2.5
+#### v1.2.6
 * Updated elements that Discord changed (If I missed any, please let me know)
 
 
