@@ -1,9 +1,8 @@
 # Spotify Discord Theme
 #### Combine Discord and Spotify into one
 <hr>
-[Download](https://betterdiscord.net/ghdl?id=2857)
 
-Current version: v1.2.6 (25/04/2019)
+Current version: v1.2.6 (25/04/2019) - **[Download](https://betterdiscord.net/ghdl?id=2857)**
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
 
