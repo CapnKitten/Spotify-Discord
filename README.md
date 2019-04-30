@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.2.6 (25/04/2019) - **[Download](https://betterdiscord.net/ghdl?id=2857)**
+Current version: v1.2.6 (25/04/2019) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
 
