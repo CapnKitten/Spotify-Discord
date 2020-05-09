@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.3.3 (15/03/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
+Current version: v1.3.4 (09/05/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
 
@@ -40,12 +40,9 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 ## Changelog
 
-#### v1.3.2
-* Various icons updated
-* Mentioned messages updated
-* Messages container scrollbar gap at the bottom fixed
-* Create/join server modal updated
-* Removed deprecated code regarding things Discord removed
+#### v1.3.4 (09/05/2020)
+* New emoji and gif picker styled
+* New mentions and unread messages popout styled
 
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
