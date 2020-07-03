@@ -2,7 +2,7 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.3.5.4 (30/06/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
+Current version: v1.3.6 (03/06/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord
 
@@ -38,9 +38,18 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 ![discord-008](https://user-images.githubusercontent.com/4013216/44601870-d899bb80-a7ab-11e8-8e34-737120c40fc6.png)
 
+&nbsp;
+
+## Variables
+
+ - `--input-bg` - The background color for the input and textarea elements
+ - `--input-text-color` - The text color for the input and textarea elements
+ - `--input-placeholder-color` - The placeholder text color for the input and textarea elements
+
 ## Changelog
 
-#### v1.3.5.4 (30/06/2020)
+#### v1.3.6 (03/06/2020)
+* Changes to the input and textarea fields. See the [variables list](https://github.com/CapnKitten/Spotify-Discord#variables) for more info
 * Updated elements that Discord changed (If I missed any, please let me know)
 
 
