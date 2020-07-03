@@ -48,6 +48,8 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 ## Changelog
 
+&nbsp;
+
 #### v1.3.6 (03/06/2020)
 * Changes to the input and textarea fields. See the [variables list](https://github.com/CapnKitten/Spotify-Discord#variables) for more info
 * Updated elements that Discord changed (If I missed any, please let me know)
