@@ -46,9 +46,9 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
  - `--input-text-color` - The text color for the input and textarea elements
  - `--input-placeholder-color` - The placeholder text color for the input and textarea elements
 
-## Changelog
-
 &nbsp;
+
+## Changelog
 
 #### v1.3.6 (03/06/2020)
 * Changes to the input and textarea fields. See the [variables list](https://github.com/CapnKitten/Spotify-Discord#variables) for more info
