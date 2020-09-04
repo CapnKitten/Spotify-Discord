@@ -1,4 +1,4 @@
-# Spotify Discord Theme
+# Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url]
 #### Combine Discord and Spotify into one
 <hr>
 
@@ -57,3 +57,5 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spoti
 
 [View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
 
+[paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
+[paypal-url]: https://paypal.me/capnkitten
