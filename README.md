@@ -2,9 +2,9 @@
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.3.6.2 (15/08/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/BetterDiscord/master/Themes/Spotify-Discord/Spotify-Discord.theme.css)**
+Current version: v1.3.6.2 (15/08/2020) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
 
-Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord
+Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Spotify-Discord/
 
 ## Previews
 
@@ -55,7 +55,7 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 * Certain inputs fixed
 
 
-[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/README.md)
+[View previous changelogs](https://github.com/CapnKitten/BetterDiscord/blob/master/Spotify-Discord/README.md)
 
 [paypal-logo]: https://img.shields.io/static/v1?label=PayPal&message=Donate&style=flat&logo=paypal&color=blue
 [paypal-url]: https://paypal.me/capnkitten
