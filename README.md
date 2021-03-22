@@ -1,8 +1,8 @@
-# Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url]
+# Spotify Discord Theme - [![Paypal][paypal-logo]][paypal-url] [![GitHub][github-logo]][github-url] [![Download][download-logo]][download-url] 
 #### Combine Discord and Spotify into one
 <hr>
 
-Current version: v1.4.2 (26/02/2021) - **[Download](https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css)**
+Current version: v1.4.2 (26/02/2021)
 
 Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord/
 
@@ -65,3 +65,6 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 [github-logo]: https://img.shields.io/static/v1?label=GitHub&message=Sponsor&style=flat&logo=github&color=black
 [github-url]: https://github.com/sponsors/CapnKitten
+
+[download-logo]: https://img.shields.io/static/v1?label=Download&message=Theme&style=flat&color=blue
+[download-url]: https://betterdiscord.net/ghdl?url=https://raw.githubusercontent.com/CapnKitten/Spotify-Discord/master/Spotify-Discord.theme.css
