@@ -39,3 +39,13 @@
 	--input-text-color: #333;
 	--input-placeholder-color: #444;
 }
+
+/* CUSTOM SERVER TITLE BAR COLORS */
+
+.container-3w7J-x[aria-label*="BetterDiscord"]:before {
+	--title-custom: #3b77c4;
+}
+
+.container-3w7J-x[aria-label*="CapnKitten"]:before {
+	--title-custom: #184c88;
+}
