@@ -36,6 +36,14 @@ Assets located at: https://github.com/CapnKitten/BetterDiscord/tree/master/Theme
 
 &nbsp;
 
+## Custom server title bar colors
+To change the title bar color for specific servers, place the code below in the theme file or your custom CSS and change the server name and hex color code to your liking.
+```css
+.container-3w7J-x[aria-label*="SERVER_NAME"]:before {
+  --title-custom: #3b77c4;
+}
+```
+
 ## Variables
 
  - `--input-bg` - The background color for the input and textarea elements
