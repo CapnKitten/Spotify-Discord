@@ -35,17 +35,7 @@
 	--popout-radius: 7px;
 	--popout-radius-small: 3px; /*	-	*/
 
-	--input-bg: #e0e0e0;
+	--input-color: #e0e0e0;
 	--input-text-color: #333;
 	--input-placeholder-color: #444;
-}
-
-/* CUSTOM SERVER TITLE BAR COLORS */
-
-.container-3w7J-x[aria-label*="BetterDiscord"]:before {
-	--title-custom: #3b77c4;
-}
-
-.container-3w7J-x[aria-label*="CapnKitten"]:before {
-	--title-custom: #184c88;
 }
