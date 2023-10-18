@@ -1,9 +1,9 @@
 /**
  * @name Spotify Discord
- * @version 1.5.0
+ * @version 2.0.0
  * @description Combine Discord and Spotify into one
  * @author CapnKitten
- * 
+ *
  * @website http://github.com/CapnKitten
  * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
  * @donate https://paypal.me/capnkitten
@@ -13,29 +13,70 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
 
 :root {
-	--accent-color: #1db954;
-	--accent-hover: #1ed760;
-	--accent-rgb: 29,185,84;
-	--accent-text-color: #fff; /*	-	*/
+	--app-font: "Circular Std";
 
-	--chat-color: #121212;
-	--chat-box-color: #272727;
-	--sidebar-color: #000;
-	--sidebar-panel: #090909; /*	-	*/
+    --app-background: hsl(0,0%,0%);
+    --app-foreground: hsl(0,0%,7%);
 
-	--title-bar: #212121;
-	--sticky-header: #181818;
-	--sticky-header-border: #303030; /*	-	*/
+    --app-card-radius: 8px;
+    --app-card-margin: 8px;
+    --app-card-top-margin: 4px;
+    --app-card-border-color: hsl(0,0%,14%);
 
-	--bar-color: #181818;
-	--bar-border-color: #282828;
-	--bar-size: 90px; /*	-	*/
+    --app-bar-size: 80px;
 
-	--popout-color: #282828;
-	--popout-radius: 7px;
-	--popout-radius-small: 3px; /*	-	*/
+    --accent-hue: 141;
+    --accent-saturation: 72.9%;
+    --accent-lightness: 42%;
+	--accent-text-color: hsl(0,0%,6%);
 
-	--input-color: #e0e0e0;
-	--input-text-color: #333;
-	--input-placeholder-color: #444;
+	--alert-hue: 0;
+    --alert-saturation: 85%;
+    --alert-lightness: 61%;
+	--alert-text-color: hsl(0,0%,0%);
+
+	--sidebar-panel-color: hsl(0,0%,12%);
+    --sidebar-panel-border: hsl(0,0%,21%);
+
+    --header-bar-height: 56px;
+    --header-bar-color: hsl(0,0%,13%);
+
+	--card-color: hsl(0,0%,10%);
+	--card-color-hover: hsl(0,0%,15%);
+    --card-color-active: hsl(0,0%,19%);
+    --card-radius: 6px;
+    --card-border-color: hsl(0,0%,19%);
+
+	--button-height: 36px;
+    --button-padding: 0 18px;
+
+	--popout-color: hsl(0,0%,16%);
+    --popout-color-alt: hsl(0,0%,11%);
+	--popout-radius: 6px;
+	--popout-radius-big: 10px;
+    --popout-border-color: hsl(0,0%,26%);
+
+	--menu-border-color: hsl(0,0%,26%);
+	--menu-text-color: hsl(0,0%,85%);
+    --menu-item-radius: 6px;
+
+	--input-height: 36px;
+    --input-padding: 0 12px;
+    --input-color: hsla(0,0%,100%,0.09);
+    --input-radius: 4px;
+    --input-border-color: hsl(0,0%,33%);
+    --input-text-color: hsl(0,0%,96%);
+    --input-placeholder-color: hsl(0,0%,71%);
+
+    --main-textarea-min-height: 48px;
+	--main-textarea-color: hsl(0,0%,14%);
+    --main-textarea-border-color: hsl(0,0%,20%);
+    --main-textarea-text-color: hsl(0,0%,60%);
+    --main-textarea-placeholder-color: hsl(0,0%,54%);
+    --main-textarea-typing-color: hsla(0,0%,7%,0.9);
+
+	--switch-knob-color: hsl(0,0%,100%);
+	--switch-slider-color: hsl(0,0%,33%);
+
+    --message-color-hover: hsl(0,0%,9%);
 }
