@@ -1,8 +1,0 @@
-{
-    "name": "Spotify-Discord",
-    "description": "Combine Discord and Spotify into one",
-    "version": "1.4.2",
-    "author": "CapnKitten",
-    "theme": "Spotify-Discord.theme.css",
-    "license": "MIT"
-}
