@@ -13,54 +13,63 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
 
 :root {
-	--app-font: "Circular Std";
-
+    /* APP BACKGROUND COLORS */
     --app-background: hsl(0,0%,0%);
     --app-foreground: hsl(0,0%,7%);
 
+    /* APP CARD SETTINGS */
     --app-card-radius: 8px;
     --app-card-margin: 8px;
     --app-card-top-margin: 4px;
     --app-card-border-color: hsl(0,0%,14%);
 
+    /* APP BAR SETTINGS (BLACK BAR AT THE BOTTOM) */
     --app-bar-size: 80px;
 
-    --accent-hue: 141;
-    --accent-saturation: 72.9%;
-    --accent-lightness: 42%;
-	--accent-text-color: hsl(0,0%,6%);
-
-	--alert-hue: 0;
-    --alert-saturation: 85%;
-    --alert-lightness: 61%;
-	--alert-text-color: hsl(0,0%,0%);
-
-	--sidebar-panel-color: hsl(0,0%,12%);
-    --sidebar-panel-border: hsl(0,0%,21%);
-
+    /* HEADER BAR SETTINGS */
     --header-bar-height: 56px;
     --header-bar-color: hsl(0,0%,13%);
 
-	--card-color: hsl(0,0%,10%);
-	--card-color-hover: hsl(0,0%,15%);
-    --card-color-active: hsl(0,0%,19%);
+    /* ACCENT HSL AND TEXT COLOR SETTINGS */
+    --accent-hue: 141;
+    --accent-saturation: 72.9%;
+    --accent-lightness: 42%;
+    --accent-text-color: hsl(0,0%,6%);
+
+    /* ALERT HSL AND TEXT COLOR SETTINGS*/
+    --alert-hue: 0;
+    --alert-saturation: 85%;
+    --alert-lightness: 61%;
+    --alert-text-color: hsl(0,0%,0%);
+
+    /* LIST & MENU ITEM SETTINGS */
+    --background-tinted-hover: hsla(0,0%,100%,0.07);
+    --background-tinted-active: hsla(0,0%,100%,0.11);
+    --background-tinted-highlight: hsla(0,0%,100%,0.17);
+    --background-tinted-dark: hsla(0,0%,0%,0.23);
+
+    --menu-text-color: hsl(0,0%,85%);
+    --menu-item-radius: 6px;
+
+    /* CARD SETTINGS - DIFFERENT FROM APP CARD SETTINGS */
+    --card-color: hsl(0,0%,10%);
+	--card-color-hover: hsl(0,0%,14%);
+    --card-color-active: hsl(0,0%,22%);
     --card-radius: 6px;
     --card-border-color: hsl(0,0%,19%);
 
-	--button-height: 36px;
+    /* BUTTON SETTINGS */
+    --button-height: 36px;
     --button-padding: 0 18px;
 
-	--popout-color: hsl(0,0%,16%);
+    /* POPOUT AND MODAL SETTINGS */
+    --popout-color: hsl(0,0%,16%);
     --popout-color-alt: hsl(0,0%,11%);
 	--popout-radius: 6px;
 	--popout-radius-big: 10px;
-    --popout-border-color: hsl(0,0%,26%);
 
-	--menu-border-color: hsl(0,0%,26%);
-	--menu-text-color: hsl(0,0%,85%);
-    --menu-item-radius: 6px;
-
-	--input-height: 36px;
+    /* INPUT SETTINGS */
+    --input-height: 36px;
     --input-padding: 0 12px;
     --input-color: hsla(0,0%,100%,0.09);
     --input-radius: 4px;
@@ -68,15 +77,24 @@
     --input-text-color: hsl(0,0%,96%);
     --input-placeholder-color: hsl(0,0%,71%);
 
+    /* MAIN CHAT BOX SETTINGS */
     --main-textarea-min-height: 48px;
-	--main-textarea-color: hsl(0,0%,14%);
+    --main-textarea-color: hsl(0,0%,14%);
     --main-textarea-border-color: hsl(0,0%,20%);
     --main-textarea-text-color: hsl(0,0%,60%);
     --main-textarea-placeholder-color: hsl(0,0%,54%);
     --main-textarea-typing-color: hsla(0,0%,7%,0.9);
 
-	--switch-knob-color: hsl(0,0%,100%);
-	--switch-slider-color: hsl(0,0%,33%);
-
+    /* MESSAGE SETTINGS */
     --message-color-hover: hsl(0,0%,9%);
+
+    /* SLIDER SETTINGS */
+    --slider-color: hsl(0,0%,70%);
+	--slider-background: hsl(0,0%,26%);
+
+    /* SCROLLBAR SETTINGS */
+    --scrollbar-width: 12px;
+    --scrollbar-color: hsl(0,0%,35%);
+    --scrollbar-hover-color: hsl(0,0%,49%);
+    --scrollbar-active-color: hsl(0,0%,58%);
 }
