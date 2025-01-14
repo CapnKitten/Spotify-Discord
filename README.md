@@ -6,6 +6,8 @@ Current version: v2.0.0 (18/10/2023)
 
 [BetterDiscord download](https://betterdiscord.app/theme/Spotify%20Discord)
 <br>
+[View add-on themes](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord/css/addons)
+<br>
 [View source files](https://github.com/CapnKitten/BetterDiscord/tree/master/Themes/Spotify-Discord)
 
 Vencord link
